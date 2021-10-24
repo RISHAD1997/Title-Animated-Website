@@ -138,7 +138,7 @@ a{
     }
     .text2{
         position:relative;
-        bottom: 580px;
+        bottom: 540px;
      
     }
     #progress-bar{
@@ -151,4 +151,10 @@ a{
         color: transparent;
         -webkit-text-stroke: 0.3px black;
     }
+     .square{
+        width: 5rem;
+        height: 5rem;
+        top: 60%;
+    }
+}
 }
